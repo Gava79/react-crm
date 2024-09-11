@@ -17,6 +17,11 @@
     "n",
     "promise"
   ],
+  
+  "extends": [
+    "eslint:recommended",
+    "plugin:n/recommended"
+  ],
 
   "globals": {
     "document": "readonly",
